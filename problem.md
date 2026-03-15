@@ -63,4 +63,4 @@ failed
 
 保证本题目中，IP地址的格式为“%d.%d.%d.%d”，后缀表达式的格式为“+*/-”的组合且数字只为0-9。
 
-n<=10^6，操作类型为op=create/connect/delete，IP地址长度不超过30，后缀表达式长度不超50。
+n<=10^6，操作类型为op=create/connect/delete/modify，IP地址长度不超过30，后缀表达式长度不超50。
